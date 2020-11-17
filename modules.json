@@ -1,3 +1,5 @@
-{
-	"weather": "https://api.github.com/repos/EdwardFuchs/weather_module"
-}
+[
+	{
+		"weather": "https://api.github.com/repos/EdwardFuchs/weather_module"
+	}
+]
