@@ -1,4 +1,4 @@
 {
-	"weather": "https://api.github.com/repos/EdwardFuchs/weather_module",
-	"coub": "https://github.com/EdwardFuchs/coub_module"
+	"weather": "https://github.com/EdwardFuchs/BAB_Modules_Paths/weather_module",
+	"coub": "https://github.com/EdwardFuchs/BAB_Modules_Paths/coub_module"
 }
